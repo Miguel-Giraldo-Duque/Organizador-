@@ -41,3 +41,29 @@
     border-radius: 7px;
     box-shadow: 0 4px 8px rgb(0 0 0 / 83%);
 }
+
+.btn-send {
+   display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.btn-send button{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: var(--off-white);
+}
+
+.btn-send button:hover {
+    background-color:var(--black); /* Green */
+    color: white;
+  }
+
+.btn-send button a {
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: #f7931a;
+    font-weight: bold;
+
+}
