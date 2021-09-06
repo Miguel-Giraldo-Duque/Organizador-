@@ -1,0 +1,16 @@
+Dia 15/08/2021
+
+Hoy complete la tarea de crear la logica de oas en js 
+hoy comprendi mas con repsecto a la herramient a de particules-js
+
+primero
+
+1 Es un codigo basnatante dificl para mi comprecion alctual de js 
+2 La pagian en la que me estoy basando tiene losmismo tamaños solo que parece que a ellos no les afecta punto final de intento de modificacion de particules-js almenos con tamaño , esto mientras aprendo mas de js
+
+
+Proximos pasos 
+
+- Crearcion de nacvar
+-Creacion de seccion explicacion de herramienta
+- Adaptacion de la logica de OAS para funcionar en el navegador 
